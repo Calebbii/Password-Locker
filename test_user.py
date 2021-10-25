@@ -71,7 +71,7 @@ class TestUser(unittest.TestCase):
 
     def test_user_exists(self):
         '''
-        test tocheck if we can return boolean if we can finf a user
+        test to check if we can return boolean if we can find a user
         '''
         self.new_user.save_user()
         test_user = User("Vannce","1234","0710516225","vannce@gmail.com") #new user

@@ -103,7 +103,7 @@ def main():
 
             if short_code == 'create u':
                     print("New Account")
-                    print("-"*10)
+                    print("-"*15)
 
                     print ("User name ....")
                     user_name = input()
@@ -185,8 +185,8 @@ def main():
                 print("Enter the number of the user you want to search for")
 
                 search_number = input()
-                print("-"*10)
-                print("-"*60)
+                print("-"*15)
+                print("-"*50)
                 if check_user(search_number):
                     search_user = find_user(search_number)
                     print(f"{search_user.credential_name}...{search_user.phone_number}")
@@ -204,7 +204,7 @@ def main():
 
                 search_number = input()
                 print("-"*10)
-                print("-"*60)
+                print("-"*50)
                 if check_existing_credential(search_number):
                     search_credential = find_credential(search_number)
                     print(f"{search_credential.credential_name}")
@@ -223,8 +223,8 @@ def main():
                 print("Enter the number to the user you want to delete")
 
                 delete_number = input()
-                print("-"*10)
-                print("-"*60)
+                print("-"*15)
+                print("-"*50)
                 if check_user(delete_number):
                     dl_user = find_user(delete_number)
                     print(f"<<{dl_user.credential_name}>> will be deleted")
@@ -241,8 +241,8 @@ def main():
                 print("Enter the number to the credential you want to delete")
 
                 delete_number = input()
-                print("-"*10)
-                print("-"*60)
+                print("-"*15)
+                print("-"*50)
                 if check_credential(delete_number):
                     dl_user = find_credential(delete_number)
                     print(f"<<{dl_credential.credential_name}>> will be deleted")

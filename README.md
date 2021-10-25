@@ -14,7 +14,6 @@ An application where users can manage their passwords and even generate new pass
 ## Setup and Installation Requirements
 * Clone the repo
 * Opening the project on a text editor
-* Open the project on a live server
 
 ## Prerequisites
 You need to have git installed 

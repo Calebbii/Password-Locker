@@ -20,7 +20,7 @@ You need to have git installed
 You can install it with the following command in your terminal $ sudo apt install git-all
 
 You should have python installed in your system. 
-This can be done using the command in the terminal $ python3.8 $ sudo apt-get install python3-pip.
+This can be done using the command in the terminal $ python3.8 $ sudo apt-get install python3-pip
 
 
 

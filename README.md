@@ -6,7 +6,7 @@ An application where users can manage their passwords and even generate new pass
 ## Features
 * Built with python
 * Easy to run
-* Proper Idenation.
+* Proper Idenation
 
 ## Technologies Used
 * Python

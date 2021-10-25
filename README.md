@@ -3,8 +3,6 @@
 ## Description
 An application where users can manage their passwords and even generate new passwords.
 
-## Live Link
-https://calebbii.github.io/Quote-App/
 ## Features
 * Built with python
 * Easy to run

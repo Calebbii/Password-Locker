@@ -16,6 +16,15 @@ An application where users can manage their passwords and even generate new pass
 * Opening the project on a text editor
 * Open the project on a live server
 
+## Prerequisites
+You need to have git installed 
+You can install it with the following command in your terminal $ sudo apt install git-all
+
+You should have python installed in your system. 
+This can be done using the command in the terminal $ python3.6 $ sudo apt-get install python3-pip
+
+
+
 ## Author
 Caleb Bii
 

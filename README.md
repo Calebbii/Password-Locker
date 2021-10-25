@@ -25,4 +25,4 @@ Caleb Bii
 Email : biicaleb316@gmail.com
 
 ## License and Copyright
-[MIT Lisence](https://github.com/Calebbii/Quote-App/blob/master/LICENSE) Copyright (c) 2021 Calebbii
+[MIT Lisence](https://github.com/Calebbii/Password-Locker/blob/master/LICENSE) Copyright (c) 2021 Calebbii
